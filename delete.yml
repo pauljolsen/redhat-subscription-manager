@@ -1,0 +1,5 @@
+---
+- name: Delete a system from RedHat Subscription Manager
+  rhsm_delete_system:
+    token: "{{ redhat_token }}"
+    hostname: "{{ machine_name }}"
