@@ -1,4 +1,4 @@
-Delete system from RedHat Subscription Manager
+Delete a system from RedHat Subscription Manager
 =============================
 
 At Diligent, when a user deletes a virtual machine using our self-service portal, our API, or our Ansible
