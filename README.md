@@ -7,7 +7,7 @@ having to log into the machine with Ansible to run subscription-manager, we use 
 directly with the RHSM API.  
 
 This module takes your offline token, requests an access token, pages through all your systems to find the right one,
-then deletes it. Have a look at the module.  
+then deletes it.
 
 
 ```yaml  
